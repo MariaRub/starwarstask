@@ -1,0 +1,8 @@
+{
+    "films": ["title", "director", "producer", "release_date"],
+    "people": ["name", "eye_color", "height", "hair_color", "gender","birth_year" ],
+    "planets": [],
+    "species": [],
+    "starships": [],
+    "vehicles": []
+}
